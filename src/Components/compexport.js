@@ -7,9 +7,9 @@ import CTA from "./CTA"
 import FeedbackCard from "./FeedbackCard"
 import Footer from "./Footer"
 import GetStarted from "./GetStarted"
-import Hero from "./Hero"
+import Hero from './Hero'
 import Navbar from "./Navbar"
 import Stats from "./Stats"
 import Testominals from "./Testominals"
-export  { Navbar, Testominals , Billing, Business , Button , CardDeal , Clients , 
+export   { Navbar, Testominals , Billing, Business , Button , CardDeal , Clients , 
     CTA , FeedbackCard, Footer , GetStarted , Hero , Stats }
