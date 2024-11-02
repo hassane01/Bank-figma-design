@@ -12,8 +12,8 @@ const CardDeal = () => {
               s website.</p>
               <Button/>
         </div>
-        <div className="flex flex-1  justify-center items-center relative ">
-          <img src={card} className='w-[100%] h-[100%]' />
+        <div className="flex flex-1  justify-center items-start relative ">
+          <img src={card} className='w-[100%] h-[100%] object-contain' />
         </div>
     </section>
   )

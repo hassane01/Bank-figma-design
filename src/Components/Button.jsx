@@ -1,7 +1,7 @@
 
 const Button = () => {
   return (
-    <button className='text-black bg-blue-gradient p-4  my-10 rounded-[10px]' type='button'>
+    <button className='text-black font-poppins font-semibold bg-blue-gradient py-4  px-6 rounded-[10px]' type='button'>
       Get Started
     </button>
   )
