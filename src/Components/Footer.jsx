@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <section className='flex flex-col  my-20' >
       <div className="flex flex-1 flex-col flex-wrap justify-start pr-5">
-        <img src={logo} alt="" className='w-[200px] h-[72px] object-contain mb-7 '/>
+        <img src={logo} alt="logo" className='w-[200px] h-[72px] object-contain mb-7 '/>
         <p className='max-w-[370px] mb-10 text-dimWhite font-poppins font-normal text-[18px] '>A new way to make payments easy, reliable and secure.</p>
       </div>
       <div className=" flex-1 flex-row flex flex-wrap justify-between">

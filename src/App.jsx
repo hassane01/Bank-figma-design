@@ -1,8 +1,6 @@
 import styles from "./style"
-import Hero from './Components/Hero'
-import {Navbar , Testominals , Billing, Business , Button , CardDeal , Clients , 
-  CTA , FeedbackCard, Footer , GetStarted ,   Stats} from "./Components/compexport"
-import { discount } from "./assets/exportsfile"
+import {Navbar , Testominals , Billing, Business  , CardDeal , Clients , 
+  CTA , Footer ,  Hero,    Stats} from "./Components/compexport"
 const App = () => {
   return (
     <div className="bg-primary w-full overflow-hidden">

@@ -18,7 +18,7 @@ const Billing = () => {
         </div>
       </div>
       <div className="flex flex-1 ">
-        <img src={bill} alt=""className='w-[100%] h-[100%] object-contain flex-grow-0  '  />
+        <img src={bill} alt="icon bill"className='w-[100%] h-[100%] object-contain flex-grow-0  '  />
       </div>
     </section>
   )

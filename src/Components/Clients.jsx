@@ -1,4 +1,3 @@
-import React from 'react'
 import { clients } from '../constants/webtext'
 
 const Clients = () => {
