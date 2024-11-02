@@ -1,4 +1,3 @@
-import React from 'react'
 import { discount, robot } from '../assets/exportsfile'
 import styles from '../style'
 import GetStarted from './GetStarted'
