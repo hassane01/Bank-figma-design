@@ -22,7 +22,7 @@ const Footer = () => {
           ))
         }
       </div>
-         <div className=" border-t-[#3f3e45] border-t-[1px] md:flex-row  justify-between flex justify-center flex-col   mt-10">
+         <div className=" border-t-[#3f3e45] border-t-[1px] md:flex-row  justify-between flex flex-col   mt-10">
           <div className="mt-6 flex justify-center ">
             <h4 className='text-center text-white text-[18px]  font-poppins font-normal '>2022 HooBank. All Rights Reserved.</h4>
           </div>
