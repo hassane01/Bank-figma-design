@@ -94,24 +94,24 @@ export const footerLinks = [
     links: [
       {
         name: "Content",
-        link: "https://www.hoobank.com/content/",
+        link: "https://baank-figma.netlify.app/",
       },
       {
         name: "How it Works",
-        link: "https://www.hoobank.com/how-it-works/",
+        link: "https://baank-figma.netlify.app/",
       },
       {
         name: "Create",
-        link: "https://www.hoobank.com/create/",
+        link: "https://baank-figma.netlify.app/",
       },
       {
         name: "Explore",
-        link: "https://www.hoobank.com/explore/",
+        link: "https://baank-figma.netlify.app/",
       },
       {
         name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
-      },
+        link: "https://baank-figma.netlify.app/",
+            },
     ],
   },
   {
@@ -119,23 +119,23 @@ export const footerLinks = [
     links: [
       {
         name: "Help Center",
-        link: "https://www.hoobank.com/help-center/",
+        link: "https://baank-figma.netlify.app/",
       },
       {
         name: "Partners",
-        link: "https://www.hoobank.com/partners/",
-      },
+        link: "https://baank-figma.netlify.app/",
+            },
       {
         name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
-      },
+        link: "https://baank-figma.netlify.app/",
+            },
       {
         name: "Blog",
-        link: "https://www.hoobank.com/blog/",
+        link: "https://baank-figma.netlify.app/",
       },
       {
         name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
+        link: "https://baank-figma.netlify.app/",
       },
     ],
   },
@@ -144,11 +144,11 @@ export const footerLinks = [
     links: [
       {
         name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
+        link: "https://baank-figma.netlify.app/",
       },
       {
         name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
+        link: "https://baank-figma.netlify.app/",
       },
     ],
   },
