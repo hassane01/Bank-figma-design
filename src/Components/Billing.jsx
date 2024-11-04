@@ -2,7 +2,7 @@ import { bill , apple , google } from "../assets/exportsfile"
 
 const Billing = () => {
   return (
-    <section className='flex flex-col md:flex-row-reverse'>
+    <section  className='flex flex-col md:flex-row-reverse'>
       <div className="my-10 flex  flex-col justify-center items-start ">
         <h1 className='text-white font-bold text-[40px] pb-4 '>Easily control your <br className="hidden sm:block"/> 
         billing & invoicing.</h1>

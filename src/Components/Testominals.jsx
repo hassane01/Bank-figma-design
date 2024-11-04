@@ -3,7 +3,7 @@ import FeedbackCard from "./FeedbackCard"
 
 const Testominals = () => {
 return (
-  <section className='flex flex-col   '> 
+  <section id='clients' className='flex flex-col   '> 
   <div className="flex w-full flex-col mb-20 md:flex-row  justify-between items-center ">
     <h4 className='w-full text-white text-[40px] font-poppins  font-semibold  ' >What people are <br className='md:block hidden'/>saying about us</h4>
     <div className="w-full " >
